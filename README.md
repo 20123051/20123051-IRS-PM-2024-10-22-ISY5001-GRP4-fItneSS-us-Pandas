@@ -21,8 +21,8 @@ This project seeks to combine location-based services, AI-powered fitness recomm
 ## VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 ## Demo Videos
 
-[![Demo Video 1](https://img.youtube.com/vi/Pf7z030hRZc/0.jpg)](https://www.youtube.com/watch?v=Pf7z030hRZc)
-[![Demo Video 2](https://img.youtube.com/vi/EE0ZBVn3Be0/0.jpg)](https://youtu.be/EE0ZBVn3Be0?si=fRUU0sp88pMChAjN)
+[![POST](https://img.youtube.com/vi/Pf7z030hRZc/0.jpg)](https://www.youtube.com/watch?v=Pf7z030hRZc)
+[![System](https://img.youtube.com/vi/EE0ZBVn3Be0/0.jpg)](https://youtu.be/EE0ZBVn3Be0?si=fRUU0sp88pMChAjN)
 
 
 ## PROJECT REPORT
