@@ -13,7 +13,7 @@ This project seeks to combine location-based services, AI-powered fitness recomm
 | Name         | ID        | Work Items                                                   |
 | ------------ | --------- | ------------------------------------------------------------ |
 | Xia Yichao   | A0297377H | Post recommendation system, front end development, server construction & maintenance |
-| Huang Tianle | A0296702Y | Workout plan recommendation system, back end development     |
+| Huang Tianle | A0296702Y | Workout plan recommendation system, back end development，Report Integration     |
 | Huang Chenyu | A0295813W | Fitness posture correction system                            |
 | Zhu Yihang   | A0297220H | Gym recommendations based on gps, database development, video editing |
 
