@@ -1,0 +1,7 @@
+group name: Pandas
+git link:https://github.com/20123051/IRS-PM-2024-10-22-ISY5001-GRP4-fItneSS-us-Pandas
+group members:
+Xia Yichao – A0297377H
+Huang Tianle- A0296702Y
+Huang Chenyu - A0295813W
+Zhu Yihang - A0297220H
