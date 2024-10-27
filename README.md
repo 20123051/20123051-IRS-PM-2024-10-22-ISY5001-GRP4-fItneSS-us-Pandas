@@ -19,8 +19,10 @@ This project seeks to combine location-based services, AI-powered fitness recomm
 | Zhu Yihang   | A0297220H | Gym recommendations based on gps, database development, video editing |
 
 ## VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-<video src="https://m.youtube.com/watch?v=Pf7z030hRZc"></video>
-<video src="https://youtu.be/EE0ZBVn3Be0?si=fRUU0sp88pMChAjN"></video>
+## Demo Videos
+
+[![Demo Video 1](https://img.youtube.com/vi/Pf7z030hRZc/0.jpg)](https://www.youtube.com/watch?v=Pf7z030hRZc)
+[![Demo Video 2](https://img.youtube.com/vi/EE0ZBVn3Be0/0.jpg)](https://youtu.be/EE0ZBVn3Be0?si=fRUU0sp88pMChAjN)
 
 
 ## PROJECT REPORT
