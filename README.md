@@ -1,9 +1,7 @@
 # IRS-PM-2024-10-22-ISY5001-GRP4-fItneSS-us-Pandas
 
 # fItneSS_us
-## Abstract
 
-**fItneSS us** is an innovative fitness app designed to enhance user experience by combining location-based gym recommendations, personalized workout plans, and real-time exercise feedback through AI and computer vision technologies. Recognizing the challenges individuals face in maintaining a balanced fitness routine, this platform offers tailored fitness guidance that considers user preferences, time, and goals. By integrating gym recommendations, dynamic workout planning, and real-time form correction, fItneSS us aims to bridge the gap between traditional and digital fitness solutions, making personalized fitness accessible to a wide audience.
 
 ## EXECUTIVE SUMMARY
 
@@ -25,3 +23,7 @@ This project seeks to combine location-based services, AI-powered fitness recomm
 
 
 ## PROJECT REPORT
+## Abstract
+
+**fItneSS us** is an innovative fitness app designed to enhance user experience by combining location-based gym recommendations, personalized workout plans, and real-time exercise feedback through AI and computer vision technologies. Recognizing the challenges individuals face in maintaining a balanced fitness routine, this platform offers tailored fitness guidance that considers user preferences, time, and goals. By integrating gym recommendations, dynamic workout planning, and real-time form correction, fItneSS us aims to bridge the gap between traditional and digital fitness solutions, making personalized fitness accessible to a wide audience.
+
