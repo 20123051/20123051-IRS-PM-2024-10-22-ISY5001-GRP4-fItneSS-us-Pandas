@@ -18,7 +18,7 @@ This project seeks to combine location-based services, AI-powered fitness recomm
 | Zhu Yihang   | A0297220H | Gym recommendations based on gps, database development, video editing |
 
 ## VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-
+<video src="https://github.com/20123051/IRS-PM-2024-10-22-ISY5001-GRP4-fItneSS-us-Pandas/blob/main/video/IRS-PM-2024-10-27-ISY5001-GRP4-Pandas-ReleaseOptimizer-System.mp4"></video>
 
 
 ## PROJECT REPORT
